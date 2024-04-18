@@ -1,0 +1,14 @@
+{
+    
+    "firstName": "Mo",
+    "lastName": "Dakdouk",
+    "enabled": true,
+    "address": {
+        "street": "Dietmar-Hopp-Alle",
+        "city": "Walldorf",
+        "zip": "6910",
+        "country": "Germany"
+    },
+    "salesAmount": 1235.3,
+    "currencyCode": "EUR"
+}
